@@ -1,5 +1,5 @@
 
 <?php
-echo "\n Helloooooooooooooooo... I am running on ".gethostname(); 
+echo "\n Hello... I am running on ".gethostname(); 
 echo "\n\n";
 ?>
