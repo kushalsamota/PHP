@@ -1,5 +1,5 @@
 
 <?php
-echo "\n Hello Everyone, Good Afternoon, I am running on openshift version4.6 ".gethostname(); 
+echo "\n Hiiii Everyone, Good evening, I am running on openshift version4.10 ".gethostname(); 
 echo "\n\n";
 ?>
